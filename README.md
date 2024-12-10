@@ -242,9 +242,73 @@ Jeff Sutherland đã tạo ra quy trình Scrum vào năm 1993, lấy thuật ng�
   <p>Ba vai trò trong Scrum:</p>
 <ul>
     <li><strong>Product Owner:</strong> Scrum Product Owner có tầm nhìn về những gì anh ấy hoặc cô ấy muốn xây dựng và truyền đạt tầm nhìn đó cho nhóm. Product Owner tập trung vào các yêu cầu của doanh nghiệp và thị trường, ưu tiên tất cả các công việc cần thực hiện. Anh ấy hoặc cô ấy xây dựng và quản lý backlog, cung cấp hướng dẫn về các tính năng nào sẽ được chuyển tiếp và tương tác với nhóm và các bên liên quan khác để đảm bảo mọi người đều hiểu các mục trong backlog sản phẩm. Product Owner không phải là người quản lý dự án. Thay vì quản lý trạng thái và tiến độ, công việc của anh ấy hoặc cô ấy là thúc đẩy nhóm bằng mục tiêu và tầm nhìn.</li>
-
-    <li><strong>Scrum Master:</strong> Thường được coi là người hướng dẫn cho nhóm, Scrum Master giúp nhóm thực hiện công việc tốt nhất có thể. Điều này có nghĩa là tổ chức các cuộc họp, giải quyết các rào cản và thách thức, và làm việc với Product Owner để đảm bảo backlog sản phẩm đã sẵn sàng cho lần chạy nước rút tiếp theo. Scrum Master cũng đảm bảo nhóm tuân theo quy trình Scrum. Anh ấy hoặc cô ấy không có thẩm quyền đối với các thành viên trong nhóm, nhưng có thẩm quyền đối với quy trình. Ví dụ, Scrum Master không thể bảo ai đó phải làm gì, nhưng có thể đề xuất nhịp độ sprint mới.</li>
-
-    <li><strong>Nhóm Scrum:</strong> Nhóm Scrum bao gồm năm đến bảy thành viên. Mọi người trong dự án làm việc cùng nhau, giúp đỡ lẫn nhau và chia sẻ cảm giác đồng chí sâu sắc. Không giống như các nhóm phát triển truyền thống, không có các vai trò riêng biệt như lập trình viên, nhà thiết kế hoặc người kiểm thử. Mọi người cùng nhau hoàn thành bộ công việc. Nhóm Scrum sở hữu kế hoạch cho mỗi sprint; họ dự đoán lượng công việc họ có thể hoàn thành trong mỗi lần lặp.</li>
+  
+   <li><strong>Scrum Master:</strong> Thường được coi là người hướng dẫn cho nhóm, Scrum Master giúp nhóm thực hiện công việc tốt nhất có thể. Điều này có nghĩa là tổ chức các cuộc họp, giải quyết các rào cản và thách thức, và làm việc với Product Owner để đảm bảo backlog sản phẩm đã sẵn sàng cho lần chạy nước rút tiếp theo. Scrum Master cũng đảm bảo nhóm tuân theo quy trình Scrum. Anh ấy hoặc cô ấy không có thẩm quyền đối với các thành viên trong nhóm, nhưng có thẩm quyền đối với quy trình. Ví dụ, Scrum Master không thể bảo ai đó phải làm gì, nhưng có thể đề xuất nhịp độ sprint mới.</li>
+    
+  <li><strong>Nhóm Scrum:</strong> Nhóm Scrum bao gồm năm đến bảy thành viên. Mọi người trong dự án làm việc cùng nhau, giúp đỡ lẫn nhau và chia sẻ cảm giác đồng chí sâu sắc. Không giống như các nhóm phát triển truyền thống, không có các vai trò riêng biệt như lập trình viên, nhà thiết kế hoặc người kiểm thử. Mọi người cùng nhau hoàn thành bộ công việc. Nhóm Scrum sở hữu kế hoạch cho mỗi sprint; họ dự đoán lượng công việc họ có thể hoàn thành trong mỗi lần lặp.</li>
+   
 </ul>
 
+<h5>
+  1.5.Các bước trong quy trình Scrum
+</h5>
+<img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/scrum-flow%402x.webp?itok=6N0zxTfV" alt="Mô tả hình ảnh">
+<p>Có một tập hợp các bước cụ thể, không thay đổi trong quy trình Scrum. Chúng bao gồm:
+  <h2>Các bước trong luồng Scrum</h2>
+
+<ul>
+    <li><strong>Product Backlog:</strong> Chủ sở hữu sản phẩm và Nhóm Scrum họp để ưu tiên các mục trong product backlog (công việc trên product backlog xuất phát từ các câu chuyện và yêu cầu của người dùng). Product backlog không phải là danh sách những việc cần hoàn thành mà là danh sách tất cả các tính năng mong muốn cho sản phẩm. Sau đó, nhóm phát triển sẽ lấy công việc từ product backlog để hoàn thành trong mỗi lần chạy nước rút.</li>
+    <li><strong>Sprint planning</strong> Trước mỗi lần chạy nước rút, Chủ sở hữu sản phẩm trình bày các mục hàng đầu trong backlog cho nhóm trong cuộc họp lập kế hoạch chạy nước rút. Sau đó, nhóm sẽ chọn công việc nào họ có thể hoàn thành trong lần chạy nước rút và chuyển công việc từ product backlog sang sprint backlog (là danh sách các nhiệm vụ cần hoàn thành trong lần chạy nước rút).</li>
+
+  <li><strong>Backlog refinement/grooming:</strong> Vào cuối một lần chạy nước rút, nhóm và Chủ sở hữu sản phẩm họp để đảm bảo backlog đã sẵn sàng cho lần chạy nước rút tiếp theo. Nhóm có thể xóa các câu chuyện của người dùng không liên quan, tạo các câu chuyện mới, đánh giá lại mức độ ưu tiên của các câu chuyện hoặc chia các câu chuyện của người dùng thành các nhiệm vụ nhỏ hơn. Mục đích của cuộc họp "chuẩn bị" này là để đảm bảo rằng danh sách tồn đọng chỉ chứa các mục có liên quan và chi tiết, đồng thời đáp ứng các mục tiêu của dự án.</li>
+
+  <li><strong>Daily Scrum meetings:</strong> Scrum hàng ngày là cuộc họp đứng kéo dài 15 phút, trong đó mỗi thành viên trong nhóm thảo luận về mục tiêu của họ và bất kỳ vấn đề nào phát sinh. Scrum hàng ngày diễn ra hàng ngày trong suốt sprint và giúp nhóm đi đúng hướng.</li>
+
+  <li><strong>Sprint review meeting:</strong> Vào cuối mỗi sprint, nhóm trình bày công việc đã hoàn thành tại cuộc họp đánh giá sprint. Cuộc họp này nên có phần trình diễn trực tiếp, không phải báo cáo hoặc bản trình bày PowerPoint.</li>
+
+  <li><strong>Sprint retrospective meeting::</strong> Cũng vào cuối mỗi sprint, nhóm sẽ xem xét Scrum đang hoạt động tốt như thế nào đối với họ và thảo luận về bất kỳ thay đổi nào cần thực hiện trong sprint tiếp theo. Nhóm có thể thảo luận về những gì đã diễn ra tốt đẹp trong sprint, những gì đã diễn ra sai và những gì họ có thể làm khác đi.</li>
+</ul>
+</p>
+
+<h5>
+  1.6.Tools, Artifacts, and Methods in Scrum
+</h5>
+<img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/burndown-chart%402x.webp?itok=Ngud7SrM" alt="Mô tả hình ảnh">
+<p>
+    Ngoài các vai trò và nghi lễ, các dự án Scrum cũng bao gồm một số công cụ và hiện vật nhất định. Ví dụ, nhóm sử dụng bảng Scrum để trực quan hóa backlog hoặc biểu đồ burndown để hiển thị công việc nổi bật. Các hiện vật và phương pháp phổ biến nhất là:
+  <h2>Các Thuật Ngữ Quan Trọng trong Scrum</h2>
+
+<ul>
+    <li><strong>Scrum Board:</strong> Bảng Scrum là công cụ giúp hình dung sprint backlog của bạn. Thông thường, bảng này sử dụng các thẻ chỉ mục, giấy Post-It hoặc bảng trắng. Bảng Scrum thường được chia thành ba mục: "Cần Làm", "Đang Làm", và "Hoàn Thành". Nhóm Scrum cần cập nhật bảng trong suốt cả sprint. Ví dụ, nếu có một nhiệm vụ mới, nó sẽ được viết vào một thẻ mới và đặt vào cột phù hợp.</li>
+
+  <li><strong>Câu Chuyện Người Dùng (User Stories):</strong> Câu chuyện người dùng mô tả một tính năng phần mềm từ góc nhìn của khách hàng. Cấu trúc câu chuyện thường là: "Là một <loại người dùng>, tôi muốn <thực hiện một công việc> để tôi có thể <đạt được mục tiêu nào đó>." Những câu chuyện này giúp đội phát triển viết mã để đáp ứng các yêu cầu của khách hàng.</li>
+
+  <li><strong>Burndown Chart:</strong> Biểu đồ burndown thể hiện công việc còn lại. Trục tung thường là backlog, còn trục hoành là thời gian. Công việc còn lại có thể được đo bằng các đơn vị như điểm câu chuyện, ngày lý tưởng, ngày của đội, hoặc các chỉ số khác. Biểu đồ burndown giúp theo dõi tiến độ của nhóm và cho thấy tác động của các quyết định nếu mọi việc không đi theo kế hoạch.</li>
+
+  <li><strong>Large-Scale Scrum (LeSS):</strong> Nếu bạn muốn mở rộng Scrum cho hàng trăm nhà phát triển, khuôn khổ Large-Scale Scrum (LeSS) giúp mở rộng các quy tắc và hướng dẫn mà không làm mất đi cốt lõi của Scrum. Các nguyên tắc trong LeSS được lấy trực tiếp từ Scrum, nhưng tập trung vào việc mở rộng mà không cần thêm vai trò, tác phẩm hay quy trình mới.</li>
+
+  <li><strong>Timeboxing:</strong> Timebox là một khoảng thời gian cố định mà trong đó nhóm làm việc để hoàn thành mục tiêu. Thay vì cho phép nhóm làm việc cho đến khi đạt được mục tiêu, phương pháp timebox dừng công việc khi hết thời gian quy định. Các vòng lặp timebox thường được sử dụng trong Scrum và Extreme Programming.</li>
+
+  <li><strong>Icebox:</strong> Các câu chuyện người dùng đã được ghi lại nhưng chưa được chuyển vào phát triển sẽ được lưu trữ trong icebox. Thuật ngữ "icebox" được tạo ra bởi công cụ quản lý dự án Agile Pivotal Tracker.</li>
+
+  <li><strong>Scrum vs RUP:</strong> Cả Scrum và Rational Unified Process (RUP) đều theo khuôn khổ Agile, nhưng RUP có định nghĩa rõ ràng về phạm vi, các cột mốc chính và ngày cụ thể (Scrum sử dụng product backlog thay vì phạm vi). RUP có bốn giai đoạn chính trong vòng đời dự án (khởi đầu, phân tích, xây dựng và chuyển giao), trong khi Scrum yêu cầu toàn bộ "vòng đời truyền thống" phải nằm trong một iteration.</li>
+
+  <li><strong>Lean vs Scrum:</strong> Scrum là một khuôn khổ phát triển phần mềm, trong khi Lean giúp tối ưu hóa quy trình đó. Scrum chủ yếu tập trung vào con người, trong khi Lean tập trung vào quy trình. Cả hai đều được coi là kỹ thuật Agile, nhưng Lean mang đến hai khái niệm chính: loại bỏ lãng phí và cải tiến dòng chảy.</li>
+</ul>
+
+</p>
+
+<h5>
+  1.7.How to Get Started with Scrum
+</h5>
+<p>
+  Làm việc với Scrum thường có nghĩa là thay đổi thói quen của nhóm. Họ cần chịu nhiều trách nhiệm hơn, tăng chất lượng mã và tăng tốc độ phân phối. Mức độ cam kết này đóng vai trò như một tác nhân thay đổi; khi các nhóm cam kết với các mục tiêu chạy nước rút, họ sẽ ngày càng có động lực để làm tốt hơn và nhanh hơn để cung cấp một sản phẩm chất lượng.
+
+Một nơi tốt để bắt đầu với Scrum là thảo luận về các vai trò. Mỗi dự án phải có một Scrum Master, Product Owner và Scrum Team. Bạn có thể muốn thảo luận về việc ai sẽ là Scrum Master và Product Owner hoặc nếu các vai trò này đã được giao, bạn có thể muốn làm rõ vai trò và trách nhiệm của họ.
+
+Tùy thuộc vào mức độ quen thuộc của nhóm bạn với Scrum, bạn cũng có thể muốn tìm hiểu về các buổi đào tạo. Các Huấn luyện viên và Người đào tạo Scrum được chứng nhận và Nhà cung cấp giáo dục đã đăng ký của Scrum Alliance có thể giúp nhóm của bạn học và áp dụng Scrum.
+
+Chế độ xem mới nhất của Smartsheet, Card View, cung cấp cho các nhóm Agile một cách trực quan hơn để làm việc, giao tiếp và cộng tác trong Smartsheet. Chế độ xem thẻ cho phép bạn tập trung sự chú ý bằng các thẻ phong phú, cung cấp góc nhìn với các chế độ xem linh hoạt và ưu tiên cũng như điều chỉnh công việc trực quan hơn. Hiển thị thông tin trên các thẻ bao gồm các trường tùy chỉnh, hình ảnh và mã màu để tập trung sự chú ý của nhóm bạn tốt hơn. Phân loại các thẻ thành các làn để sắp xếp công việc của bạn trực quan hơn.
+
+Sử dụng Chế độ xem thẻ Smartsheet trong cuộc họp Scrum tiếp theo của bạn.
+</p>
