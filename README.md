@@ -204,3 +204,47 @@ Bất kể bạn chọn con đường nào, hãy nhớ rằng Agile có tính li
 
 Chế độ xem mới nhất của Smartsheet, Card View, cung cấp cho các nhóm Agile một cách trực quan hơn để làm việc, giao tiếp và cộng tác trong Smartsheet. Chế độ xem thẻ cho phép bạn tập trung sự chú ý bằng các thẻ phong phú, cung cấp góc nhìn với các chế độ xem linh hoạt và ưu tiên cũng như điều chỉnh công việc trực quan hơn. Hiển thị thông tin trên các thẻ bao gồm các trường tùy chỉnh, hình ảnh và mã màu để tập trung sự chú ý của nhóm bạn tốt hơn. Phân loại thẻ thành các làn để sắp xếp công việc của bạn trực quan hơn.
 </p>
+
+<h1 style="color: green; font-weight: bold;">SCRUM
+</h1>
+<h5>
+  1.1.Quản lý dự án Scrum là gì?
+</h5>
+<p>
+  Scrum là một tập hợp con của Agile và là một trong những khuôn khổ quy trình phổ biến nhất để triển khai Agile. Đây là một mô hình phát triển phần mềm lặp đi lặp lại được sử dụng để tận dụng các quy trình gia tăng được bao gồm trong một khuôn khổ lớn hơn, sử dụng các nhóm chức năng chéo để đạt được mục tiêu và thích ứng với những thay đổi. Scrum hướng đến việc thiết lập các phần nhỏ của bản phát hành nhanh hơn trong các lần lặp có độ dài cố định, được gọi là sprint, kéo dài từ một đến hai tuần. Điều này cho phép nhóm phân phối phần mềm theo nhịp độ đều đặn. Vào cuối mỗi sprint, các bên liên quan và thành viên nhóm họp để lập kế hoạch cho các bước tiếp theo.
+
+Scrum tuân theo một tập hợp các vai trò, trách nhiệm và cuộc họp không bao giờ thay đổi. Ví dụ, Scrum yêu cầu bốn nghi lễ cung cấp cấu trúc cho mỗi sprint: lập kế hoạch sprint, họp hàng ngày, demo sprint và hồi tưởng sprint. Trong mỗi sprint, nhóm sẽ sử dụng các hiện vật trực quan như bảng nhiệm vụ hoặc biểu đồ burndown để hiển thị tiến độ và nhận phản hồi gia tăng.
+
+Loại quản lý dự án này mang lại khả năng phản hồi tốt hơn với khách hàng, chi phí phát triển thấp hơn, sự hài lòng trong công việc và lợi nhuận ngay lập tức hơn. Scrum không phải là một quy trình tuyến tính, mà là một hoạt động thực hành lưu động, xem xét nhiều bộ phận chuyển động, nhóm và mục tiêu khi tiến triển.
+
+Jeff Sutherland đã tạo ra quy trình Scrum vào năm 1993, lấy thuật ngữ “Scrum” từ phép loại suy trong một nghiên cứu năm 1986 của Takeuchi và Nonaka được công bố trên Harvard Business Review. Trong nghiên cứu, Takeuchi và Nonaka so sánh các nhóm chức năng chéo có hiệu suất cao với đội hình Scrum được các đội bóng bầu dục sử dụng. Bối cảnh ban đầu cho điều này là sản xuất, nhưng Sutherland, cùng với John Scumniotales và Jeff McKenna, đã điều chỉnh mô hình cho phát triển phần mềm.
+</p>
+<h5>1.2.Lợi ích của Scrum</h5>
+<ul>
+    <li><strong>Minh bạch hơn và khả năng hiển thị dự án:</strong> Với các cuộc họp thường kỳ hàng ngày, toàn bộ nhóm biết ai đang làm gì, loại bỏ nhiều hiểu lầm và nhầm lẫn. Các vấn đề được xác định trước, cho phép nhóm giải quyết trước khi chúng vượt khỏi tầm kiểm soát.</li>
+    <li><strong>Tăng trách nhiệm của nhóm:</strong> Không có người quản lý dự án nào chỉ đạo Nhóm Scrum phải làm gì và khi nào. Thay vào đó, nhóm cùng nhau quyết định công việc nào họ có thể hoàn thành trong mỗi lần chạy nước rút. Tất cả họ cùng nhau làm việc và giúp đỡ lẫn nhau, cải thiện sự hợp tác và trao quyền cho từng thành viên trong nhóm để trở nên độc lập.</li>
+    <li><strong>Dễ dàng thích ứng với các thay đổi:</strong> Với các lần chạy nước rút ngắn và phản hồi liên tục, việc đối phó và thích ứng với các thay đổi trở nên dễ dàng hơn. Ví dụ: nếu nhóm phát hiện ra một câu chuyện người dùng mới trong một lần chạy nước rút, họ có thể dễ dàng thêm tính năng đó vào lần chạy nước rút tiếp theo trong cuộc họp tinh chỉnh tồn đọng.</li>
+    <li><strong>Tiết kiệm chi phí hơn:</strong> Giao tiếp liên tục đảm bảo nhóm nhận thức được mọi vấn đề và thay đổi ngay khi chúng phát sinh, giúp giảm chi phí và tăng chất lượng. Bằng cách mã hóa và thử nghiệm các tính năng theo từng phần nhỏ hơn, sẽ có phản hồi liên tục và có thể sửa lỗi ngay từ đầu, trước khi chúng trở nên quá tốn kém để sửa.</li>
+</ul>
+
+<h5>1.3.Nhược điểm của Scrum</h5>
+<ul>
+    <li><strong>Nguy cơ vượt phạm vi:</strong> Một số dự án Scrum có thể gặp phải tình trạng vượt phạm vi do không có ngày kết thúc cụ thể. Nếu không có ngày hoàn thành, các bên liên quan có thể bị cám dỗ tiếp tục yêu cầu chức năng bổ sung.</li>
+    <li><strong>Nhóm đòi hỏi kinh nghiệm và cam kết:</strong> Với các vai trò và trách nhiệm được xác định, nhóm cần phải quen thuộc với các nguyên tắc Scrum để thành công. Vì không có vai trò được xác định trong Nhóm Scrum (mọi người đều làm mọi thứ), nhóm cần các thành viên có kinh nghiệm về kỹ thuật. Nhóm cũng cần cam kết tham gia các cuộc họp Scrum hàng ngày và ở lại nhóm trong suốt thời gian của dự án.</li>
+    <li><strong>Một Scrum Master không phù hợp có thể phá hỏng mọi thứ:</strong> Scrum Master rất khác với người quản lý dự án. Scrum Master không có thẩm quyền đối với nhóm; anh ấy hoặc cô ấy cần tin tưởng nhóm mà họ đang quản lý và không bao giờ ra lệnh cho họ phải làm gì. Nếu Scrum Master cố gắng kiểm soát nhóm, dự án sẽ thất bại.</li>
+    <li><strong>Các nhiệm vụ không được xác định rõ ràng có thể dẫn đến sự không chính xác:</strong> Chi phí và mốc thời gian của dự án sẽ không chính xác nếu các nhiệm vụ không được xác định rõ ràng. Nếu các mục tiêu ban đầu không rõ ràng, việc lập kế hoạch trở nên khó khăn và các sprint có thể mất nhiều thời gian hơn so với ước tính ban đầu.</li>
+</ul>
+
+<h5>
+ 1.4.Roles in Scrum
+</h5>
+<img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/roles-in-scrum%402x.webp?itok=VpyA2x_8" alt="Mô tả hình ảnh">
+  <p>Ba vai trò trong Scrum:</p>
+<ul>
+    <li><strong>Product Owner:</strong> Scrum Product Owner có tầm nhìn về những gì anh ấy hoặc cô ấy muốn xây dựng và truyền đạt tầm nhìn đó cho nhóm. Product Owner tập trung vào các yêu cầu của doanh nghiệp và thị trường, ưu tiên tất cả các công việc cần thực hiện. Anh ấy hoặc cô ấy xây dựng và quản lý backlog, cung cấp hướng dẫn về các tính năng nào sẽ được chuyển tiếp và tương tác với nhóm và các bên liên quan khác để đảm bảo mọi người đều hiểu các mục trong backlog sản phẩm. Product Owner không phải là người quản lý dự án. Thay vì quản lý trạng thái và tiến độ, công việc của anh ấy hoặc cô ấy là thúc đẩy nhóm bằng mục tiêu và tầm nhìn.</li>
+
+    <li><strong>Scrum Master:</strong> Thường được coi là người hướng dẫn cho nhóm, Scrum Master giúp nhóm thực hiện công việc tốt nhất có thể. Điều này có nghĩa là tổ chức các cuộc họp, giải quyết các rào cản và thách thức, và làm việc với Product Owner để đảm bảo backlog sản phẩm đã sẵn sàng cho lần chạy nước rút tiếp theo. Scrum Master cũng đảm bảo nhóm tuân theo quy trình Scrum. Anh ấy hoặc cô ấy không có thẩm quyền đối với các thành viên trong nhóm, nhưng có thẩm quyền đối với quy trình. Ví dụ, Scrum Master không thể bảo ai đó phải làm gì, nhưng có thể đề xuất nhịp độ sprint mới.</li>
+
+    <li><strong>Nhóm Scrum:</strong> Nhóm Scrum bao gồm năm đến bảy thành viên. Mọi người trong dự án làm việc cùng nhau, giúp đỡ lẫn nhau và chia sẻ cảm giác đồng chí sâu sắc. Không giống như các nhóm phát triển truyền thống, không có các vai trò riêng biệt như lập trình viên, nhà thiết kế hoặc người kiểm thử. Mọi người cùng nhau hoàn thành bộ công việc. Nhóm Scrum sở hữu kế hoạch cho mỗi sprint; họ dự đoán lượng công việc họ có thể hoàn thành trong mỗi lần lặp.</li>
+</ul>
+
