@@ -91,7 +91,7 @@ Cụ thể Agile có vài nhược điểm sau:
 <h5>
   1.5. The Agile Development Cycle
 </h5>
-<img src="[image.jpg](https://www.smartsheet.com/sites/default/files/styles/900px/public/agile-lifecycle_0.webp?itok=iLb_Oq-Y)" alt="Mô tả hình ảnh">
+<img src="https://www.smartsheet.com/sites/default/files/styles/900px/public/agile-lifecycle_0.webp?itok=iLb_Oq-Y" alt="Mô tả hình ảnh">
 <p>
   Trên đây là các phase trong vòng đời phát triển Agile. Nhiều phase có thể thực hiện song song
   <ul>
